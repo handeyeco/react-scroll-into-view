@@ -2,8 +2,6 @@
 
 A thought experiment inspired by Code Daily's article on [creating a reusable scroll list component](https://codedaily.io/tutorials/8/Build-a-Reusable-Scroll-List-Component-with-Animated-scrollTo-in-React).
 
-Currently has a memory leak, but could be related to React itself: https://github.com/facebook/react/issues/16087.
-
 This isn't meant to be in production. Some safety checks need to be in place first. Use/copy at your own risk.
 
 ## Concept
